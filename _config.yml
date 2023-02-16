@@ -49,58 +49,43 @@ people:
   pic: 1
   position: Founder & CEO
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/stephinline
+    - title: youtube
+      url: https://www.youtube.com/channel/UC_nmeLMKpNunsWJO6g57YQA
+    - title: reddit
+      url: https://www.reddit.com/r/Stephinline/
 
 - name: Rosmon Sidhik
   pic: 2
   position: VP, Product & Engg
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/rosmons
+    - title: instagram
+      url: https://www.instagram.com/rosmonsidhik/
     - title: linkedin
-      url: #
-
-# - name: Paul Lo Duca
-#   pic: 3
-#   position: People Operations Manager
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: linkedin
-#       url: #
+      url: https://www.linkedin.com/in/rosmons/
 
 - name: Chris Puccetti
   pic: 4
   position: Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/chrisdavilllager/
+    - title: github
+      url: https://github.com/ChrisDaVillager
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/chris-puccetti/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: instagram
+    url: https://www.instagram.com/stephinline
+  - title: youtube
+    url: https://www.youtube.com/channel/UC_nmeLMKpNunsWJO6g57YQA
+  - title: reddit
+    url: https://www.reddit.com/r/Stephinline/
 
 # Postal address (add as many lines as necessary)
 address:
